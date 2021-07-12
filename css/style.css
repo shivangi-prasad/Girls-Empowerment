@@ -1416,3 +1416,7 @@ a:focus {
 input[placeholder], [placeholder], *[placeholder] {
     color: rgb(255, 255, 255) !important;
 }
+
+.input-place::placeholder {
+    color: white;
+  }
