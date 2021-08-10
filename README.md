@@ -44,7 +44,7 @@ Wait untill your pull request is acknowledged by the project maintainers.
             <br />
             <sub><b>Anisha Prajapati</b></sub>
         </a>
-    </td></tr>
+    </td>
     <td align="center">
         <a href="https://github.com/shivangi-prasad">
             <img src="https://avatars.githubusercontent.com/u/78526375?v=4" width="100;" alt="shivangi"/>
@@ -58,7 +58,7 @@ Wait untill your pull request is acknowledged by the project maintainers.
             <br />
             <sub><b>Priti</b></sub>
         </a>
-    </td>    
+    </td> </tr>   
 </table>
 <!-- readme: contributors -end -->
 
