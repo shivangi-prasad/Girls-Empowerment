@@ -58,7 +58,8 @@ Wait untill your pull request is acknowledged by the project maintainers.
             <br />
             <sub><b>Priti</b></sub>
         </a>
-    </td> </tr>   
+    </td> 
+    </tr>   
 </table>
 <!-- readme: contributors -end -->
 
