@@ -31,13 +31,7 @@ Wait untill your pull request is acknowledged by the project maintainers.
 <!-- readme: contributors -start -->
 <table>
 <tr>
-    <td align="center">
-        <a href="https://github.com/manan2110">
-            <img src="https://avatars.githubusercontent.com/u/55996661?v=4" width="100;" alt="manan2110"/>
-            <br />
-            <sub><b>Manan Gyanchandani</b></sub>
-        </a>
-    </td>
+    
     <td align="center">
         <a href="https://github.com/khushi200701">
             <img src="https://avatars.githubusercontent.com/u/58480229?v=4" width="100;" alt="khushi200701"/>
@@ -46,19 +40,27 @@ Wait untill your pull request is acknowledged by the project maintainers.
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/solinabasak">
-            <img src="https://avatars.githubusercontent.com/u/54628003?v=4" width="100;" alt="solinabasak"/>
+        <a href="https://github.com/anisha1004">
+            <img src="https://avatars.githubusercontent.com/u/54628217?v=4" width="100;" alt="anisha"/>
             <br />
-            <sub><b>Solinabasak</b></sub>
+            <sub><b>Anisha Prajapati</b></sub>
+        </a>
+    </td></tr>
+    <td align="center">
+        <a href="https://github.com/shivangi-prasad">
+            <img src="https://avatars.githubusercontent.com/u/78526375?v=4" width="100;" alt="shivangi"/>
+            <br />
+            <sub><b>Shivangi Prasad</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Technical-Board-IIITG">
-            <img src="https://avatars.githubusercontent.com/u/58619800?v=4" width="100;" alt="Technical-Board-IIITG"/>
+        <a href="https://github.com/Priti-28">
+            <img src="https://avatars.githubusercontent.com/u/79038117?v=4" width="100;" alt="priti"/>
             <br />
-            <sub><b>Technical-Board-IIITG</b></sub>
+            <sub><b>Priti</b></sub>
         </a>
-    </td></tr>
+    </td>
+    
 </table>
 <!-- readme: contributors -end -->
 
