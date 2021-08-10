@@ -30,8 +30,7 @@ Wait untill your pull request is acknowledged by the project maintainers.
 
 <!-- readme: contributors -start -->
 <table>
-<tr>
-    
+<tr>    
     <td align="center">
         <a href="https://github.com/khushi200701">
             <img src="https://avatars.githubusercontent.com/u/58480229?v=4" width="100;" alt="khushi200701"/>
@@ -59,8 +58,7 @@ Wait untill your pull request is acknowledged by the project maintainers.
             <br />
             <sub><b>Priti</b></sub>
         </a>
-    </td>
-    
+    </td>    
 </table>
 <!-- readme: contributors -end -->
 
