@@ -77,7 +77,7 @@
         ]
     });
     
-    
+
     // Blogs carousel
     $(".blog-carousel").owlCarousel({
         autoplay: true,

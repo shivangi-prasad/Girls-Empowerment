@@ -1031,7 +1031,7 @@ a:focus {
 }
 
 .blog .blog-item a.btn:hover {
-    color: #db1a88;
+    color: #ffffff;
 }
 
 .blog .owl-nav {
@@ -1166,7 +1166,7 @@ a:focus {
 }
 
 .contact .container-fluid {
-    background: url(../img/girl-power-neon-sign-vector_53876-76087.jpeg) left center no-repeat;
+    background: url(../img/contact.gif) left center no-repeat;
     background-size: contain;
 }
 
@@ -1182,6 +1182,7 @@ a:focus {
     border-radius: 0;
     border: none;
     border-bottom: 1px solid #0a0a0a;
+    text-decoration-color: white;
 }
 
 .contact .contact-form textarea {
@@ -1191,6 +1192,7 @@ a:focus {
     border-radius: 0;
     border: none;
     border-bottom: 1px solid #0a0a0a;
+    text-decoration-color: #ffffff;
 }
 
 .contact .contact-form .btn {
@@ -1207,7 +1209,7 @@ a:focus {
 
 .contact .contact-form .btn:hover {
     color: #1d2434;
-    background: #5a5957;
+    background: #ffffff;
 }
 
 .contact .help-block ul {
@@ -1284,7 +1286,7 @@ a:focus {
 .footer .footer-newsletter {
     position: relative;
     margin-bottom: 45px;
-    color: #999999;
+    color: #ffffff;
 }
 
 .footer .footer-contact h2,
@@ -1300,7 +1302,7 @@ a:focus {
 .footer .footer-link a {
     display: block;
     margin-bottom: 10px;
-    color: #999999;
+    color: #ffffff;
     transition: .3s;
 }
 
@@ -1341,7 +1343,7 @@ a:focus {
 }
 
 .footer .footer-social a:hover i {
-    color: #999999;
+    color: #ffffff;
 }
 
 .footer .footer-newsletter .form {
@@ -1351,7 +1353,7 @@ a:focus {
 
 .footer .footer-newsletter input {
     height: 60px;
-    border: 2px solid #1d2434;
+    border: 2px solid #ffffff;
     border-radius: 0;
 }
 
@@ -1363,7 +1365,7 @@ a:focus {
     padding: 8px 20px;
     font-size: 14px;
     font-weight: 600;
-    color: #1d2434;
+    color: #ffffff;
     background: none;
     border-radius: 0;
     border: 2px solid #1d2434;
@@ -1387,7 +1389,7 @@ a:focus {
 
 .footer .copyright p {
     margin: 0;
-    color: #454545;
+    color: #000000;
 }
 
 .footer .copyright .col-md-6:last-child p {
@@ -1411,3 +1413,10 @@ a:focus {
     }
 }
 
+input[placeholder], [placeholder], *[placeholder] {
+    color: rgb(255, 255, 255) !important;
+}
+
+.input-place::placeholder {
+    color: white;
+  }
